@@ -1,0 +1,10 @@
+{
+  "require": {
+    "slim/slim": "2.*",
+    "opentok/opentok": "2.2.*",
+    "icanboogie/storage": "~1.0",
+	"justinrainbow/json-schema": "~2.0",
+    "php": ">=5.4.0",
+    "ext-apcu": "*"
+  }
+}
