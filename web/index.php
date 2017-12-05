@@ -115,7 +115,6 @@ $app->get('/view/:archiveId', 'cors', function ($archiveId) use ($app) {
     }
 });
 
-
 // Enable CORS functionality
 function cors() {
     // Allow from any origin
